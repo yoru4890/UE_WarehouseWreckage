@@ -7,7 +7,11 @@
 			"files": [
 				"D:/github/game_project/Unreal_Game/UE_WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/github/game_project/Unreal_Game/UE_WarehouseWreckage/WarehouseWreckage/Content/Maps/Minimal_Default1.umap",
-				"D:/github/game_project/Unreal_Game/UE_WarehouseWreckage/WarehouseWreckage/Content/Maps/BP_Projectile.uasset"
+				"D:/github/game_project/Unreal_Game/UE_WarehouseWreckage/WarehouseWreckage/Content/Maps/BP_Projectile.uasset",
+				"D:/github/game_project/Unreal_Game/UE_WarehouseWreckage/WarehouseWreckage/Content/Main.umap",
+				"D:/github/game_project/Unreal_Game/UE_WarehouseWreckage/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"D:/github/game_project/Unreal_Game/UE_WarehouseWreckage/WarehouseWreckage/Content/Maps/BP_Barrel.uasset",
+				"D:/github/game_project/Unreal_Game/UE_WarehouseWreckage/WarehouseWreckage/Content/BP_Barrel.uasset"
 			]
 		}
 	]
